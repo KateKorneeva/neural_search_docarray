@@ -5,3 +5,5 @@ TODO:
 * Make this work (405 error code on results)
 * Make it read the query text and not hard-coded text
 * Use multiple input files
+
+https://katekorneeva.github.io/neural_search_docarray/
